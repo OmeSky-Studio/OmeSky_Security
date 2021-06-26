@@ -1,0 +1,8 @@
+{
+    "not_permision": "Vous n'avez pas la permision.",
+    "not_member": "Merci de mentioner la personne que vous voulez kick/ban.",
+    "owner": "vous ne pouvez pas kick/ban le propriétaire du serveur.",
+    "not_grade": "Vous n'avez pas la permission pour kick/ban ce membre.",
+    "bot_not_permision": "le bot ne peut pas kick/ban ce membre.",
+    "not_raison": "Aucune raison fournie"
+}

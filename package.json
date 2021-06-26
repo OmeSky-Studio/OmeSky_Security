@@ -1,0 +1,13 @@
+{
+    "name": "OméSky Security",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "OméSky Studio by Guiguidoudou06",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.3.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
